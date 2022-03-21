@@ -7,6 +7,7 @@ gem "bootsnap", require: false
 gem "image_processing", "~> 1.2"
 gem "puma", "~> 5.0"
 gem "rails", "~> 7.0.2", ">= 7.0.2.3"
+gem "shakapacker"
 gem "sprockets-rails"
 gem "sqlite3", "~> 1.4"
 
